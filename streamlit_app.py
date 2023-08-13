@@ -1,4 +1,4 @@
 import streamlit as st
-st.title("lik cloud streamlit projen")
+st.title("ilk cloud streamlit projem")
 
 
