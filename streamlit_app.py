@@ -1,6 +1,7 @@
 import yfinance as yf
 import pandas as pd
 import streamlit as st
+import pilotly.express as pt
 st.title("ilk cloud streamlit projem")
 
 
